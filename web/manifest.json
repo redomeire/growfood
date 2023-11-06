@@ -1,16 +1,16 @@
 {
-    "name": "growfood",
-    "short_name": "growfood",
+    "name": "GrowFood",
+    "short_name": "GrowFood",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "An Urban Planting App.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "assets/logo/Logonotext.png",
             "sizes": "192x192",
             "type": "image/png"
         },
